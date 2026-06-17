@@ -1,1 +1,0 @@
-git log --oneline -> to know current status of saved points
