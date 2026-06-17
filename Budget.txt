@@ -1,1 +1,2 @@
 Today's expense - 1200
+Yesterday's expense - 800
