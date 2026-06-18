@@ -1,0 +1,4 @@
+1. You can use git add <name> to stage file or use
+git add . if there are multiple files
+2. git log --one line is better than git log
+3. 
