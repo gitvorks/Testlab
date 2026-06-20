@@ -6,3 +6,4 @@ This is the test sentence
 new text
 
 add another message
+add footer notes
