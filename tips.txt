@@ -1,4 +1,12 @@
 1. You can use git add <name> to stage file or use
 git add . if there are multiple files
 2. git log --one line is better than git log
-3. 
+3. Do atomic commits i.e commit frequently without
+being shy, whenever you complete one section/feature,
+this makes moving back easy
+4. Use present tense, imperative i.e like giving order
+to code base eg. "add footer to page" not "added footer"
+5. there are many files in a folder which you don't want to 
+track by git such as .env file etc. so you can use
+".gitignore" file and add name in it to remove tracking
+6.
