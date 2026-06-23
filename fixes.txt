@@ -4,3 +4,6 @@ third bug fixed
 fourth bug fixed
 
 another fix message for dark mode
+
+another fix message for purple mode
+
